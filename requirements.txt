@@ -1,0 +1,7 @@
+fastapi==0.110.2    # FastAPI for building the web API
+uvicorn==0.29.0     # ASGI server for running FastAPI
+pydantic==2.6.4
+# Dependencies for the model
+tensorflow-cpu==2.10.1   # TensorFlow for the model
+numpy==1.26.4       # NumPy for data processing
+
